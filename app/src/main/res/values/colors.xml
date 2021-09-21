@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="ciscocol">#EB59319E</color>
+    <color name="mikrotikcol">#F09004</color>
+    <color name="laincol">#138FF0</color>
+    <color name="tentangcol">#F0440D</color>
+</resources>
