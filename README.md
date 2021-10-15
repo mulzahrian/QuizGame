@@ -4,7 +4,7 @@
 ## Desc :
 Instalation follow the instructions below:
 ```
-git clone https://github.com/mulzahrian/springBoot_swaggerUI.git
+git clone https://github.com/mulzahrian/QuizGame.git
 ```
 - Use Android Studio
 - Download Emulator
